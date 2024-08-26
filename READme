@@ -6,14 +6,15 @@ Removes protection from .docx files by modifying their internal XML settings.
 
 Requirements:
 
-Python 3.x (standard modules used, no additional libraries needed)
+1- Python 3.x (standard modules used, no additional libraries needed)
 Usage:
 
-Set up input and output directories in the script:
+2- Set up input and output directories in the script:
 
 input_dir: Directory with .docx files to unlock
 output_dir: Directory to save unlocked .docx files
-Run the script with your directory paths. For example:
+
+3- Run the script with your directory paths. For example:
 
 input_dir: C:\path\to\input_dir
 output_dir: C:\path\to\output_dir
